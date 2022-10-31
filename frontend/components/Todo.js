@@ -4,7 +4,7 @@ export default class Todo extends React.Component {
   render() {
     return (
       <div>
-        Todo
+        Lionel
       </div>
     )
   }
